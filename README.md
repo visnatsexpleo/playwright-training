@@ -1,15 +1,13 @@
 
-# 🧪 Playwright Training – Node.js & JavaScript Foundations
+Playwright Training – Node.js & JavaScript Foundations
 
 This repository documents my **step-by-step learning journey** into **Node.js, JavaScript, and Playwright automation**, following an industry-style, incremental approach.
 
 The goal is to build a **solid foundation first**, before introducing Playwright test automation.
+ This repository is intentionally built day by day, with small commits, to reflect real-world learning and professional Git practices.
 
-> 🚀 This repository is intentionally built day by day, with small commits, to reflect real-world learning and professional Git practices.
 
----
-
-## 📌 What This Repository Covers (So Far)
+What This Repository Covers (So Far)
 
 * Environment setup for Node.js development
 * JavaScript fundamentals required for automation
@@ -18,15 +16,14 @@ The goal is to build a **solid foundation first**, before introducing Playwright
 
 ---
 
-## 🟦 Day 1 – Environment Setup & Mindset
+Day 1 – Environment Setup & Mindset
 
-### 🎯 Objective
+ Objective
 
 Set up the development environment and run the first Node.js program successfully.
 
----
 
-### 🔧 Tools Installed
+Tools Installed
 
 * **Node.js (LTS)** – to run JavaScript outside the browser
 * **npm** – Node package manager (comes with Node.js)
@@ -34,8 +31,7 @@ Set up the development environment and run the first Node.js program successfull
 * **Git** – version control
 
 ---
-
-### 🛠 What Was Done
+What Was Done
 
 1. Verified Node.js installation:
 
@@ -83,7 +79,7 @@ Set up the development environment and run the first Node.js program successfull
 
 ---
 
-### ✅ Key Learnings
+Key Learnings
 
 * What Node.js is and why Playwright depends on it
 * How to run JavaScript from the terminal
@@ -92,15 +88,15 @@ Set up the development environment and run the first Node.js program successfull
 
 ---
 
-## 🟦 Day 2 – JavaScript Basics (Automation-Focused)
+Day 2 – JavaScript Basics (Automation-Focused)
 
-### 🎯 Objective
+Objective
 
 Learn core JavaScript concepts that are heavily used in test automation.
 
 ---
 
-### 🧠 Concepts Covered
+Concepts Covered
 
 * Variables (`const`, `let`)
 * Data types (string, number, boolean)
@@ -110,13 +106,12 @@ Learn core JavaScript concepts that are heavily used in test automation.
 
 ---
 
-### 🛠 What Was Implemented
+What Was Implemented
 
 A new file was created to practice JavaScript fundamentals:
+**`index-day2.js`**
 
-📄 **`index-day2.js`**
-
-#### Example Concepts Practiced
+Example Concepts Practiced
 
 ```js
 const userName = "Viswanath";
@@ -152,7 +147,7 @@ node index-day2.js
 
 ---
 
-### ✅ Key Learnings
+Key Learnings
 
 * How JavaScript logic controls automation behavior
 * How functions and conditions mirror test flow
@@ -161,15 +156,15 @@ node index-day2.js
 
 ---
 
-## 🟦 Day 3 – JavaScript Essentials for Testing
+Day 3 – JavaScript Essentials for Testing
 
-### 🎯 Objective
+Objective
 
 Learn modern JavaScript patterns used extensively in Playwright tests.
 
 ---
 
-### 🧠 Concepts Covered
+ Concepts Covered
 
 * Arrays
 * Objects
@@ -178,7 +173,7 @@ Learn modern JavaScript patterns used extensively in Playwright tests.
 
 ---
 
-### 🛠 What Was Implemented
+What Was Implemented
 
 A new practice file was created:
 
@@ -224,7 +219,7 @@ node index-day3.js
 
 ---
 
-### ✅ Key Learnings
+ Key Learnings
 
 * How arrays represent lists of test data
 * How objects model real-world entities
@@ -233,19 +228,19 @@ node index-day3.js
 
 ---
 
-## 🧾 Git & GitHub Workflow
+Git & GitHub Workflow
 
 * Small, daily commits
 * Clear commit messages
 * Local Git repository connected to GitHub
 * Authentication handled using GitHub Personal Access Token (PAT)
 
-🔗 **Repository Link:**
+**Repository Link:**
 [https://github.com/visnatsexpleo/playwright-training](https://github.com/visnatsexpleo/playwright-training)
 
 ---
 
-## 🚀 What’s Next
+ What’s Next
 
 The next phase will introduce **Node.js fundamentals**, including:
 
@@ -258,9 +253,8 @@ The next phase will introduce **Node.js fundamentals**, including:
 
 ---
 
-## 🧠 Author
+Author
 
 **Viswanath Natarajan**
-Learning Playwright & Automation Engineering
-📍 Step-by-step, hands-on approach
+Learning Playwright & Automation Engineering, Step-by-step, hands-on approach
 
