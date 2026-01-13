@@ -240,14 +240,55 @@ Git & GitHub Workflow
 
 ---
 
- What’s Next
+Day 4 – Node.js Fundamentals & npm
+Objective
 
-The next phase will introduce **Node.js fundamentals**, including:
+Introduce npm, initialize a real Node.js project, and replace manual commands with npm scripts.
 
-* `npm`
-* `package.json`
-* Dependency management
-* Preparing the project for Playwright installation
+Concepts Covered
+
+npm (Node Package Manager)
+
+package.json
+
+npm scripts
+
+Project-level configuration
+
+node_modules and .gitignore
+
+🛠 What Was Implemented
+
+Initialized npm:
+
+npm init -y
+
+
+Created package.json to define project metadata and scripts.
+
+Added npm scripts to run previous learning files:
+
+"scripts": {
+  "day2": "node index-day2.js",
+  "day3": "node index-day3.js"
+}
+
+
+Executed JavaScript using npm instead of raw Node commands:
+
+npm run day3
+
+Key Learnings
+
+How real Node.js projects are structured
+
+Why package.json is central to automation frameworks
+
+How npm scripts standardize execution
+
+Why node_modules is excluded from Git
+
+This setup prepares the project for installing Playwright in the next phase.
 
 > This README will be **updated daily** as the learning journey continues.
 
