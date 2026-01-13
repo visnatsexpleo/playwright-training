@@ -1,0 +1,16 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "This repository documents my **step-by-step learning journey** into **Node.js, JavaScript, and Playwright automation**, following an industry-style, incremental approach.",
+  "scripts": {
+    "day1": "node index-day1.js",
+    "day2": "node index-day2.js",
+    "day3": "node index-day3.js"
+  },
+  
+  
+  "keywords": [],
+  "author": "Viswanath Natarajan",
+  "license": "MIT"
+
+}
