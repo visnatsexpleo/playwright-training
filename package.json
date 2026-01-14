@@ -7,10 +7,11 @@
     "day2": "node index-day2.js",
     "day3": "node index-day3.js"
   },
-  
-  
   "keywords": [],
   "author": "Viswanath Natarajan",
-  "license": "MIT"
-
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^25.0.8"
+  }
 }
