@@ -290,6 +290,36 @@ Why node_modules is excluded from Git
 
 This setup prepares the project for installing Playwright in the next phase.
 
+
+ ### Day 5 – Playwright Setup & First Test
+
+###  Objective
+Install Playwright correctly, scaffold the project using the official initializer, and execute the first browser automation test.
+
+### Concepts Covered
+- Playwright test runner
+- Official Playwright project scaffolding
+- Browser automation basics
+- Headless test execution
+
+### 🛠 What Was Implemented
+1. Installed Playwright test runner:
+   ```bash
+   npm install -D @playwright/test
+
+2. Initialized Playwright project structure using the official initializer:
+
+npm init playwright@latest
+
+
+3. Reviewed the generated example test.
+
+4. Ran the first Playwright test:
+
+npx playwright test
+
+
+
 > This README will be **updated daily** as the learning journey continues.
 
 ---
